@@ -1,2 +1,2 @@
 # SnakeJava
-Very simple of the classic Snake game from Java
+Very simple program that mimics the Snake game, made with Java
